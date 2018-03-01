@@ -1,0 +1,10 @@
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\bin\Debug\PracticaArchivo.exe.config
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\bin\Debug\PracticaArchivo.exe
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\bin\Debug\PracticaArchivo.pdb
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.csprojResolveAssemblyReference.cache
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.Form1.resources
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.Properties.Resources.resources
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.csproj.GenerateResource.Cache
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.csproj.CoreCompileInputs.cache
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.exe
+c:\users\hrolo\source\repos\PracticaArchivo\PracticaArchivo\obj\Debug\PracticaArchivo.pdb
